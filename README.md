@@ -81,8 +81,6 @@ The business problem is reframed into a **data mining task** under CRISP-DM as f
 ## 6. Modeling Approach
 ---
 
-## 8. Modeling Options
-
 We will experiment with multiple regression approaches to identify the most suitable model for predicting car prices.  
 
 **Modeling Options:**
